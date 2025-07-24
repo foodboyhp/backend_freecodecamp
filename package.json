@@ -19,5 +19,5 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-	"keywords": [ "descriptive", "related", "words" ]
+	"keywords": [ "descriptive", "related", "words", "freecodecamp"]
 }
